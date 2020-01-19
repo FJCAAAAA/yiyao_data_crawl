@@ -1,0 +1,50 @@
+Difficulty breathing|Dyspnea
+blue penile skin|BlueSkinPenis
+blue lips|BlueLips
+blue fingers|BlueSkinFingers
+blue toe|BlueSkinToes
+weakness with everyday tasks or play|ReducedPerformance
+Chest pain|ChestPain
+Chest tightness|ChestPain
+Wheezing|AudibleWheezingWithoutStethoscope
+fast breathing|Tachypnea
+diarrhoea|Diarrhea
+nausea|Nausea
+abdominal pain|AbdominalPain
+blocked nose|NasalCongestion
+anxiety|Anxiety
+chills|Chills
+Loss of appetite|LossOfAppetite
+swollen glands in the neck|
+increased tendency to sweat|CervicalLymphadenopathy
+jerking movements of the whole body|Convulsions
+pulmonary infections|RecurrentRespiratoryTractInfections
+pale face|FacialPallor
+fatigue|Fatigue
+generalised muscle pain|Myalgia
+hoarse voice|Hoarseness
+swollen eyelid|SwellingOfTheEyelid
+facial swelling|FacialSwelling
+abnormal heartbeat sensation|Palpitation
+Loss of appetite|LossOfAppetite
+sneezing|Sneezing
+Generalised muscle pain|Myalgia
+Weight loss|WeightLoss
+rapid pulse|RapidPulse
+Difficulty swallowing|Dysphagia
+chest pain|ChestPain
+Jerking movements of the whole body|Convulsions
+General yellowing of the skin|YellowColorOfSkin
+Difficulty speaking not related to a voice problem|SpeechDifficulties
+Loss of consciousness|CompleteLossOfConsciousness
+Snoring|Snoring
+Urinating less|DecreasedUrineOutput
+Runny nose|NasalDischarge
+Low blood pressure|LowBloodPressure
+repeated respiratory infection|
+Raised skin bumps all over the body|RecurrentRespiratoryTractInfections
+Inceased tendency to sweat|HyperhidrosisGeneralized
+itchy feeling inside the nose|PruriticNasalCavity
+Dizziness|Dizziness
+Abdominal bloating or distension|Bloating
+Vomiting|Vomiting

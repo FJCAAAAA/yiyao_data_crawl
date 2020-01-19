@@ -1,0 +1,8 @@
+DepressedMood
+AvoidanceBehaviour
+Paresthesia
+ExcessiveDaytimeSleepiness
+DysesthesiaOfTheLowerExtremity
+Obsession
+Abulia
+SlowPulse
